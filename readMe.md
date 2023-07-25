@@ -26,7 +26,9 @@
 
 ### Project 1: House Renting website
 
-Client Repository: [Link](https://house-hounter-client.netlify.app/)
+<h2>
+Live Link: [Link](https://house-hounter-client.netlify.app/)
+</h2>
 
 Description: An online house rental platform built with React, Redux, and Node.js. Users can browse products, add items to the cart, and proceed to checkout.
 
