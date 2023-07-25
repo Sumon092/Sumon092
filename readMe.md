@@ -32,7 +32,7 @@
   <b>🛍️ E-Commerce Website</b>
 </p>
 <p align="center">
-  <img src="/path/to/e-commerce-screenshot.png" alt="E-Commerce Website Screenshot">
+  <img src="https://yourdomain.com/e-commerce-animation.gif" alt="E-Commerce Website Animation">
 </p>
 <p align="center">
   An aesthetically designed e-commerce store built with React and Node.js. Users can browse products, add items to their cart, and securely checkout using Stripe payment integration.
@@ -47,7 +47,7 @@
   <b>🌐 DevConnector Social Network</b>
 </p>
 <p align="center">
-  <img src="/path/to/devconnector-screenshot.png" alt="DevConnector Social Network Screenshot">
+  <img src="https://yourdomain.com/devconnector-animation.gif" alt="DevConnector Social Network Animation">
 </p>
 <p align="center">
   DevConnector is a full-fledged social network platform for developers. Built with MERN stack, it enables developers to create profiles, share posts, and connect with other developers.
@@ -62,7 +62,7 @@
   <b>✅ Task Manager App</b>
 </p>
 <p align="center">
-  <img src="/path/to/task-manager-screenshot.png" alt="Task Manager App Screenshot">
+  <img src="https://yourdomain.com/task-manager-animation.gif" alt="Task Manager App Animation">
 </p>
 <p align="center">
   A task manager app with a simple and intuitive UI. Users can create, update, and delete tasks. Uses MongoDB for data storage.
