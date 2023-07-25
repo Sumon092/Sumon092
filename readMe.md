@@ -1,37 +1,48 @@
 # Hi there, I'm Mohammad Sumon 👋
 
-I'm a MERN stack developer passionate about building web applications that solve real-world problems. I enjoy learning new technologies and exploring different areas of software development.
+<p align="center">
+  <img src="https://yourdomain.com/mohammad-sumon-banner.png" alt="Mohammad Sumon Banner">
+</p>
 
-## 🚀 Skills
+<h3 align="center">Passionate MERN Stack Developer</h3>
 
-- **Front-end:** HTML, CSS, JavaScript, React, Redux
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadsumon/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
+  <a href="mailto:mohammad.sumon@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&labelColor=red" alt="Email"></a>
+</p>
 
-## 🔨 Projects
+Welcome to my GitHub profile! I'm a passionate MERN stack developer with a strong love for creating web applications that make a positive impact. I'm constantly learning and expanding my skill set to stay up-to-date with the latest technologies and trends in the development world.
 
-### Project 1: E-Commerce Website
+## 🚀 Skills & Technologies
+
+I have expertise in building full-stack applications using a variety of technologies:
+
+- **Front-end:** HTML5, CSS3, JavaScript (ES6+), ReactJS, Redux, Bootstrap
+- **Back-end:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Version Control:** Git, GitHub
+
+## 💼 Notable Projects
+
+Here are some of my noteworthy projects:
+
+### 🛍️ E-Commerce Website
 
 ![E-Commerce Website](/path/to/e-commerce-screenshot.png)
 
-Description: An online shopping platform built with React, Redux, and Node.js. Users can browse products, add items to the cart, and proceed to checkout.
+An aesthetically designed e-commerce store built with React and Node.js. Users can browse products, add items to their cart, and securely checkout using Stripe payment integration.
 
 Repository: [Link](https://github.com/yourusername/e-commerce)
 
----
+### 🌐 DevConnector Social Network
 
-### Project 2: Blogging Platform
+![DevConnector Social Network](/path/to/devconnector-screenshot.png)
 
-![Blogging Platform](/path/to/blogging-screenshot.png)
+DevConnector is a full-fledged social network platform for developers. Built with MERN stack, it enables developers to create profiles, share posts, and connect with other developers.
 
-Description: A blogging platform built with MERN stack. Users can create, edit, and delete blog posts. Includes user authentication and authorization.
+Repository: [Link](https://github.com/yourusername/devconnector)
 
-Repository: [Link](https://github.com/yourusername/blogging-platform)
-
----
-
-### Project 3: Task Manager App
+### ✅ Task Manager App
 
 ![Task Manager App](/path/to/task-manager-screenshot.png)
 
