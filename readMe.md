@@ -17,43 +17,10 @@
 
 ## 🚀 Skills
 
-- **Front-end:** HTML, CSS, JavaScript, React, Redux,NextJs
+- **Front-end:** HTML, CSS, JavaScript, React, Redux, NextJs
 - **Back-end:** Node.js, Express.js
-- **Database:** MongoDB, SQL Server
+- **Database:** MongoDB, SQL Server, Postgres
 - **Version Control:** Git
-
-## 🔨 Projects
-
-### Project 1: House Renting website
-
-<h2>
-Live Link: [Link](https://house-hounter-client.netlify.app/)
-</h2>
-
-Description: An online house rental platform built with React, Redux, and Node.js. Users can browse products, add items to the cart, and proceed to checkout.
-
-Client Repository: [Link](https://github.com/Sumon092/house-hunter-client)
-Server Repository: [Link](https://github.com/Sumon092/house-hunter-server)
-
----
-
-### Project 2: Blogging Platform
-
-![Blogging Platform](https://yourdomain.com/blogging-screenshot.png)
-
-Description: A blogging platform built with MERN stack. Users can create, edit, and delete blog posts. Includes user authentication and authorization.
-
-Repository: [Link](https://github.com/yourusername/blogging-platform)
-
----
-
-### Project 3: Task Manager App
-
-![Task Manager App](https://yourdomain.com/task-manager-screenshot.png)
-
-Description: A task manager app with a simple and intuitive UI. Users can create, update, and delete tasks. Uses MongoDB for data storage.
-
-Repository: [Link](https://github.com/yourusername/task-manager)
 
 ## 🌱 Interests
 
@@ -61,6 +28,6 @@ I'm currently exploring serverless architecture, GraphQL, and continuous integra
 
 ## 📫 Contact
 
-Feel free to reach out to me via email at mohammad.sumon@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammadsumon/).
+Feel free to reach out to me via email at m.sumon@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammadsumon/).
 
 Happy coding! 🚀
