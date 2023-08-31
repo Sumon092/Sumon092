@@ -6,7 +6,7 @@
 <!-- Your Introduction -->
 <h1 align="center">Hi there, I'm Mohammad Sumon 👋</h1>
 <p align="center">
-  A <b>MERN stack developer</b> passionate about building web applications that solve real-world problems.
+  A <b>Full stack developer</b> passionate about building web applications that solve real-world problems.
 </p>
 
 <!-- Shields for Social and Contact -->
